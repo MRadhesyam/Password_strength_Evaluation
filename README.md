@@ -29,11 +29,11 @@ This task focused on understanding what makes a password strong, testing differe
 ## 🔍 Example Results
 | Password Example | Complexity | Strength | Crack Time | Feedback |
 |------------------|------------|----------|------------|----------|
-| `password`       | Weak       | Very Weak| < 1 sec    | Too short, only lowercase |
-| `password123`    | Weak       | Weak     | Seconds    | Contains dictionary word |
-| `Pass1234`       | Medium     | Weak     | Hours      | Needs symbols, longer length |
+| `12345678`       | Weak       | Very Weak| < 1 sec    | Too short, only lowercase |
+| `power123`    | Weak       | Weak     | Seconds    | Contains dictionary word |
+| `Pow1234`       | Medium     | Weak     | Hours      | Needs symbols, longer length |
 | `P@ssw0rd2025!`  | Strong     | Strong   | Centuries  | Good complexity, length |
-| `Blue_Tiger_Jumps_Over_3_Mountains!`     | Very Strong | Excellent | Millions of years | Long passphrase, high entropy |
+| `king_Stone_hit@1hard!rock&`     | Very Strong | Excellent | Millions of years | Long passphrase, high entropy |
 
 ---
 
